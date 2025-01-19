@@ -27,7 +27,7 @@ const About = () => {
               Andrew is an experienced and passionate individual with a 'find a way' attitude. A steadfast team player with a strong network throughout the region, Andrew has over 25 years of experience across the United States and China in industries like furniture, retail, branding, and children's recreation. He has collaborated with brands such as BMW, Mercedes, AMD, IBM, Tesla, Starbucks, and more.
             </p>
             <p className="text-gray-600">
-              Passionate about the design and implementation of office environments, retail concepts, and wellness spaces, Andrew combines technical expertise with creative vision to bring unique concepts to life. His dedication to sustainability drives the mission behind 'Seating and More.'
+              Passionate about the design and implementation of office environments, retail concepts, and wellness spaces, Andrew combines technical expertise with creative vision to bring unique concepts to life. His dedication to sustainability drives the mission behind <i>Seating and More</i>.
             </p>
           </div>
 
