@@ -3,7 +3,7 @@ import { Clock, Mail, Phone } from 'lucide-react';
 
 const About = () => {
   // Replace YOUR_API_KEY with your actual Google Maps API key
-  const GOOGLE_MAPS_API_KEY = process.env.GOOGLE_API;
+  const GOOGLE_MAPS_API_KEY = 'AIzaSyALRy0LVHqYh3BYtt4YOJyCp9mtK7gq81g';
   const address = '1749 W Kirby Ave, Champaign, IL 61821';
   const encodedAddress = encodeURIComponent(address);
 
