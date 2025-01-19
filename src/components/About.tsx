@@ -3,7 +3,7 @@ import { Clock, Mail, Phone } from 'lucide-react';
 
 const About = () => {
   // Replace YOUR_API_KEY with your actual Google Maps API key
-  const GOOGLE_MAPS_API_KEY = 'YOUR_API_KEY';
+  const GOOGLE_MAPS_API_KEY = process.env.GOOGLE_API;
   const address = '1749 W Kirby Ave, Champaign, IL 61821';
   const encodedAddress = encodeURIComponent(address);
 
@@ -15,7 +15,7 @@ const About = () => {
             <h2 className="text-3xl font-bold text-gray-900 mb-6">Meet Our Founder</h2>
             <div className="aspect-w-16 aspect-h-9 mb-6">
               <img
-                src="https://images.unsplash.com/photo-1556157382-97eda2d62296?auto=format&fit=crop&q=80"
+                src="https://images.unsplash.com/photo-1612372606404-0ab33e7187ee?q=80&w=2556&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="Placeholder for Andrew"
                 className="rounded-lg object-cover"
               />
