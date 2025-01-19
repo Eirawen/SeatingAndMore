@@ -4,28 +4,28 @@ import { Filter } from 'lucide-react';
 const products = [
   {
     id: 1,
-    name: 'Vintage Office Chair',
+    name: 'Stock Chair 1',
     category: 'chairs',
     price: '$299',
     image: 'https://images.unsplash.com/photo-1592078615290-033ee584e267?auto=format&fit=crop&q=80'
   },
   {
     id: 2,
-    name: 'Modern Conference Table',
+    name: 'Stock Table 2',
     category: 'tables',
     price: '$899',
     image: 'https://images.unsplash.com/photo-1577140917170-285929fb55b7?auto=format&fit=crop&q=80'
   },
   {
     id: 3,
-    name: 'Ergonomic Task Chair',
+    name: 'Stock Chair 3,
     category: 'chairs',
     price: '$399',
     image: 'https://images.unsplash.com/photo-1580480055273-228ff5388ef8?auto=format&fit=crop&q=80'
   },
   {
     id: 4,
-    name: 'Home Office Desk',
+    name: 'Stock Desk 4',
     category: 'tables',
     price: '$599',
     image: 'https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&q=80'

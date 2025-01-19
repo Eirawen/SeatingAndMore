@@ -80,7 +80,7 @@ const Contact = () => {
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900">Social Media</h3>
                   <a
-                    href="#"
+                    href="https://www.facebook.com/profile.php?id=100084714969723&sk=photos"
                     className="text-blue-600 hover:text-blue-700 transition-colors"
                   >
                     Follow us on Facebook
