@@ -15,7 +15,7 @@ const About = () => {
             <h2 className="text-3xl font-bold text-gray-900 mb-6">Meet Our Founder</h2>
             <div className="aspect-w-16 aspect-h-9 mb-6">
               <img
-                src="https://images.unsplash.com/photo-1612372606404-0ab33e7187ee?q=80&w=2556&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="https://lh3.googleusercontent.com/p/AF1QipPIBvOWKkdd_UAop9qYIqEadxFyWLBRA4ui0nhG=s680-w680-h510"
                 alt="Placeholder for Andrew"
                 className="rounded-lg object-cover"
               />
