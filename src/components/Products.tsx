@@ -18,7 +18,7 @@ const products = [
   },
   {
     id: 3,
-    name: 'Stock Chair 3,
+    name: 'Stock Chair 3',
     category: 'chairs',
     price: '$399',
     image: 'https://images.unsplash.com/photo-1580480055273-228ff5388ef8?auto=format&fit=crop&q=80'
