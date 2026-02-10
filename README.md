@@ -1,1 +1,1 @@
-Hi!
+Commissioned project for local furniture store. 
